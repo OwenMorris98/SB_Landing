@@ -5,7 +5,7 @@
             color: #333; /* Dark gray text color */
             margin: 0;
             padding: 0;
-            background-image: url("/img/sb_background.jpg");
+            background-image: url("./img/sb_background.jpg");
         }
         .container {
             display: flex;
